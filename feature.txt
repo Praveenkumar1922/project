@@ -1,1 +1,2 @@
 this is perfectly created branch.
+this is same changes in feature conflict.
